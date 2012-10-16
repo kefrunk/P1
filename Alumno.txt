@@ -1,0 +1,14 @@
+//					//
+//   	- Programación Avanzada - 	//
+//     Práctica 1: Elementos de Java	//
+------------------------------------------
+
+NOMBRE:	Eduardo Gabriel Argandoña Santander
+DNI:	74229591N
+email:	eduardo.argandona@alu.umh.es
+
+
+NOTA: Archivos fuente en la carpeta "src"
+      Archivos compilados en la carpeta "bin"
+      Archivo por lotes P1.sh en la carpeta "bin"
+      proyecto realizado con Eclipse
